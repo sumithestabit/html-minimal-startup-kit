@@ -1,6 +1,0 @@
-.no-webp .class-name{
-	background-image: url(../images/example.jpg); 
-}
-.webp .class-name{
-	background-image: url(../images/webp/example.jpg);
-}
