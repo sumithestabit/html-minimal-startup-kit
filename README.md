@@ -18,7 +18,6 @@
 <p class="has-line-data" data-line-start="19" data-line-end="21">And of course <strong>HTML Minimal Startup Kit</strong> itself is open source with a <a href="https://github.com/sumithestabit/html-minimal-startup-kit.git">public repository</a><br>
 on GitHub.</p>
 <h3 class="code-line" data-line-start=22 data-line-end=23 ><a id="Installation_22"></a>Installation</h3>
-<p class="has-line-data" data-line-start="24" data-line-end="25">HTML Minimal Startup Kit requires <a href="https://nodejs.org/">Node.js</a> v4+ to run.</p>
 <p class="has-line-data" data-line-start="26" data-line-end="27">Clone it, head into the project and then run:</p>
 <pre><code class="has-line-data" data-line-start="29" data-line-end="31" class="language-sh">$ git <span class="hljs-built_in">clone</span> https://github.com/sumithestabit/html-minimal-startup-kit.git
 </code></pre>
